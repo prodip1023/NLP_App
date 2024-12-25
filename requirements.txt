@@ -1,0 +1,12 @@
+ipykernel
+pandas
+numpy
+matplotlib
+keras
+tensorflow
+scikit-learn
+seaborn
+nltk
+tqdm
+spacy
+gensim
